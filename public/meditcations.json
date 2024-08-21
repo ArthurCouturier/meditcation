@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Meditation 1",
+        "description": "This is a meditation",
+        "note": 5
+    },
+    {
+        "title": "Meditation 2",
+        "description": "This is another meditation",
+        "note": 4
+    },
+    {
+        "title": "Meditation 3",
+        "description": "This is still another meditation",
+        "note": 5
+    },
+    {
+        "title": "Meditation 4",
+        "description": "This is a meditation",
+        "note": 3
+    },
+    {
+        "title": "Meditation 5",
+        "description": "This is a meditation",
+        "note": 2
+    }
+]
